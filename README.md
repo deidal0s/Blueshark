@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Deidalos-GmbH/blueshark/">
+  <a href="https://github.com/deidal0s/Blueshark/">
     <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fclipart-library.com%2Fimages_k%2Ftransparent-shark-gif%2Ftransparent-shark-gif-15.png&f=1&nofb=1" alt="Logo" width="80" height="80">
   </a>
 
@@ -12,14 +12,14 @@
   <p align="center">
     Jamm the Signal of any Bluetooth device you want!
     <br />
-    <a href="https://github.com/Deidalos-GmbH/blueshark/"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/deidal0s/Blueshark/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Deidalos-GmbH/blueshark/">View Demo</a>
+    <a href="https://github.com/deidal0s/Blueshark/">View Demo</a>
     ·
-    <a href="https://github.com/Deidalos-GmbH/blueshark/issues">Report Bug</a>
+    <a href="https://github.com/deidal0s/Blueshark/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Deidalos-GmbH/blueshark/issues">Request Feature</a>
+    <a href="https://github.com/deidal0s/Blueshark/issues">Request Feature</a>
   </p>
 </div>
 
@@ -73,7 +73,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Deidalos-GmbH/blueshark.git
+   git clone https://github.com/deidal0s/Blueshark.git
    ```
 2. Go into the Directory
    ```sh
@@ -101,7 +101,7 @@ python blueshark.py
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-See the [open issues](https://github.com/Deidalos-GmbH/blueshark/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/deidal0s/Blueshark/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -130,8 +130,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Prepakis Georgios - [@deidal0s](https://twitter.com/deidal0s) - prepakis.geo@gmail.com
+Prepakis Georgios - [@deidal0s](https://twitter.com/deidal0s) - bd@crime.su
 
-Project Link: [https://github.com/Deidalos-GmbH/blueshark/](https://github.com/Deidalos-GmbH/blueshark/)
+Project Link: [https://github.com/deidal0s/Blueshark/](https://github.com/deidal0s/Blueshark/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
