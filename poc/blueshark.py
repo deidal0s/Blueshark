@@ -37,7 +37,7 @@ class Banner:
 
     def banner():
         
-        r = requests.get('https://pastebin.com/raw/zAwNt2Z0')
+        r = requests.get('https://raw.githubusercontent.com/deidal0s/Blueshark/main/ascii.txt')
         print(r.text)
         print('''
             Author:       
